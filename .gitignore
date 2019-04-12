@@ -1,0 +1,8 @@
+fmnist/
+mnist/
+__pycache__/
+.ipynb_checkpoints/
+data/mnist/
+.idea/
+.DS_Store
+Dump/
